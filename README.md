@@ -1,6 +1,6 @@
 - 👋 Hi there,
 
-I am Shrujan, student of Data Science and Engineering at Great Lakes Institute of Management. I love numbers and have keen interest into Python and Statistics.
+Senior QA Engineer | 8 Yrs in Software Testing | Manual Testing (Functional, Regression, UAT) | Playwright Automation (Python/TypeScript/JavaScript) | AI-Assisted Testing | SQL & Database Testing | Agile/SDLC/STLC
 
 
 <!---
